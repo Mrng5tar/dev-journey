@@ -18,12 +18,13 @@ Each main folder below contains:
 
 ### 🔗 Topics Covered
 
-| Folder                                | Description                                                                      |
-| ------------------------------------- | -------------------------------------------------------------------------------- |
-| [HTML/](./HTML/README.md)             | Notes on semantic HTML, forms, multimedia, accessibility, and best practices     |
-| [CSS/](./CSS/README.md)               | Includes CSS selectors, box model, Flexbox, Grid, animations, and responsiveness |
-| [JavaScript/](./JavaScript/README.md) | Covers fundamentals, DOM, ES6+, async JS, and browser APIs                       |
-| [DSA/](./DSA/README.md)               | Quick notes and code examples for data structures and algorithms in JavaScript   |
+| Folder                                      | Description                                                                      |
+| ------------------------------------------- | -------------------------------------------------------------------------------- |
+| [HTML/](./HTML/README.md)                   | Notes on semantic HTML, forms, multimedia, accessibility, and best practices     |
+| [CSS/](./CSS/README.md)                     | Includes CSS selectors, box model, Flexbox, Grid, animations, and responsiveness |
+| [JavaScript/](./JavaScript/README.md)       | Covers fundamentals, DOM, ES6+, async JS, and browser APIs                       |
+| [DSA/](./DSA/README.md)                     | Quick notes and code examples for data structures and algorithms in JavaScript   |
+| [WebEssentials/](./WebEssentials/README.md) | Quick notes covering fundamentals of basic knowledge needed about the web        |
 
 ---
 
