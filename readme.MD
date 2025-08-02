@@ -55,10 +55,9 @@ If you'd like to contribute:
 
 ## 🌱 Future Plans
 
-- [ ] Add browser compatibility info and accessibility notes
 - [ ] Integrate interactive practice (via CodePen or Replit)
 - [ ] Export markdown notes as PDFs
-- [ ] Add Next.js, Git, and React folders
+- [ ] Add React, Next.js, Git and more topic folders
 
 ---
 
