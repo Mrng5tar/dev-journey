@@ -1,0 +1,135 @@
+# 🌐 The Web and Internet Basics
+
+This section covers the foundational concepts behind how the web and internet function. Understanding these basics is essential before diving into frontend or backend development.
+
+---
+
+## 📌 Topics Covered
+
+- What is the Web?
+- Internet vs. Web
+- How the Internet Works
+- Client-Server Model
+- Request & Response Cycle
+- URL Structure & Query Parameters
+- Domain Names & DNS
+- IP Address & Hosting
+
+---
+
+## 🌍 What is the Web?
+
+The **World Wide Web (WWW)** is a collection of interlinked documents and applications accessed via the internet using web browsers.
+
+- Built on top of the **internet**
+- Uses **HTTP/HTTPS** protocols
+- Accessed through **browsers**
+
+🔗 [MDN – How the Web works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+
+---
+
+## 🌐 Internet vs Web
+
+| Feature    | Internet                   | World Wide Web               |
+| ---------- | -------------------------- | ---------------------------- |
+| Definition | Global network of networks | Collection of documents/apps |
+| Protocols  | TCP/IP, UDP                | HTTP, HTTPS                  |
+| Access     | Routers, ISPs              | Browsers                     |
+| Services   | Email, FTP, VoIP, Web      | Web pages, Web apps          |
+
+🔗 [Cloudflare – What is the Internet?](https://www.cloudflare.com/learning/network-layer/what-is-the-internet/)
+
+🔗 [Web.dev – What is the Web?](https://web.dev/learn/design/what-is-the-web/)
+
+---
+
+## 🖧 How the Internet Works (Simplified)
+
+1. You type a URL into the browser.
+2. Browser performs **DNS lookup** to find IP address.
+3. Sends **HTTP request** to the server.
+4. Server returns **HTML, CSS, JS**.
+5. Browser renders the page.
+
+🔗 [MDN – How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
+
+🔗 [YouTube – How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
+
+---
+
+## 🧑‍💻 Client-Server Model
+
+- **Client**: The browser or device making the request
+- **Server**: The machine hosting the web content
+- Communication happens over **HTTP** or **HTTPS**
+
+> Client requests → Server responds
+
+🔗 [freeCodeCamp – Client–server architecture](https://www.freecodecamp.org/news/client-server-architecture-explained-with-examples/)
+
+---
+
+## 🔁 Request & Response Cycle
+
+- **Request**:
+
+  - Method: GET, POST, etc.
+  - Headers
+  - Body (for POST/PUT)
+
+- **Response**:
+
+  - Status Code (200, 404, etc.)
+  - Headers
+  - Body (HTML, JSON, etc.)
+
+🔗 [MDN – HTTP Request and Response](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
+
+---
+
+## 🔗 URL Structure & Query Parameters
+
+A URL (Uniform Resource Locator) looks like:
+
+```
+https://www.example.com/path?query=value
+```
+
+- **Scheme**: `https`
+- **Host**: `www.example.com`
+- **Path**: `/path`
+- **Query**: `?query=value`
+
+🔗 [MDN – URL Basics](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_URL)
+
+---
+
+## 🧭 Domain Names & DNS
+
+- **Domain Name**: Human-friendly name (e.g., `google.com`)
+- **DNS**: Translates domain to IP address
+- Like a phonebook for the internet
+
+🔗 [Cloudflare – What is DNS?](https://www.cloudflare.com/learning/dns/what-is-dns/)
+
+🔗 [MDN – DNS Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_hosting#what_happens_when_you_type_a_url_in_the_browser)
+
+---
+
+## 🖥️ IP Address & Hosting
+
+- **IP Address**: Unique address for each device/server on the internet
+- **Hosting**: A service that stores your website files and serves them to users
+
+🔗 [Namecheap – What is Web Hosting?](https://www.namecheap.com/hosting/what-is-web-hosting/)
+
+🔗 [DigitalOcean – Understanding IP Addresses](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses)
+
+---
+
+## ✅ Summary
+
+Understanding how the web and internet function together sets the foundation for everything in web development. Concepts like DNS, URLs, HTTP, and client-server architecture are essential to building, debugging, and deploying modern web applications.
+
+---
