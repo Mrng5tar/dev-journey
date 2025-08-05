@@ -38,9 +38,7 @@ The **World Wide Web (WWW)** is a collection of interlinked documents and applic
 | Access     | Routers, ISPs              | Browsers                     |
 | Services   | Email, FTP, VoIP, Web      | Web pages, Web apps          |
 
-🔗 [Cloudflare – What is the Internet?](https://www.cloudflare.com/learning/network-layer/what-is-the-internet/)
-
-🔗 [Web.dev – What is the Web?](https://web.dev/learn/design/what-is-the-web/)
+🔗 [Internet vs WWW](https://www.scaler.com/topics/difference-between-internet-and-www/)
 
 ---
 
@@ -54,9 +52,7 @@ The **World Wide Web (WWW)** is a collection of interlinked documents and applic
 
 🔗 [MDN – How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 
-🔗 [YouTube – How the Internet Works in 5 Minutes](https://www.youtube.com/watch?v=7_LPdttKXPc)
-
----
+## 🔗 [How HTTPS works? Comics](https://howhttps.works/)
 
 ## 🧑‍💻 Client-Server Model
 
@@ -66,7 +62,7 @@ The **World Wide Web (WWW)** is a collection of interlinked documents and applic
 
 > Client requests → Server responds
 
-🔗 [freeCodeCamp – Client–server architecture](https://www.freecodecamp.org/news/client-server-architecture-explained-with-examples/)
+🔗 [Understanding Client–Server Model](https://systemdesignschool.io/blog/client-server)
 
 ---
 
@@ -113,7 +109,7 @@ https://www.example.com/path?query=value
 
 🔗 [Cloudflare – What is DNS?](https://www.cloudflare.com/learning/dns/what-is-dns/)
 
-🔗 [MDN – DNS Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_hosting#what_happens_when_you_type_a_url_in_the_browser)
+🔗 [How DNS works? Comics](https://howdns.works/)
 
 ---
 
@@ -122,9 +118,7 @@ https://www.example.com/path?query=value
 - **IP Address**: Unique address for each device/server on the internet
 - **Hosting**: A service that stores your website files and serves them to users
 
-🔗 [Namecheap – What is Web Hosting?](https://www.namecheap.com/hosting/what-is-web-hosting/)
-
-🔗 [DigitalOcean – Understanding IP Addresses](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses)
+🔗 [Namecheap – What is Web Hosting?](https://www.namecheap.com/guru-guides/what-is-web-hosting/)
 
 ---
 
