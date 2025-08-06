@@ -4,7 +4,7 @@ This repository contains structured notes, quick references, useful links, and c
 
 > 🚧 This repository is a work in progress. Contributions, corrections, or feedback are welcome!
 
-## ⚒️ Currenty Working On: DSA
+## ⚒️ Currenty Working On: HTML
 
 ---
 
