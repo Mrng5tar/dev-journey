@@ -52,7 +52,6 @@ The **World Wide Web (WWW)** is a collection of interlinked documents and applic
 
 🔗 [MDN – How does the Internet work?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 
-## 🔗 [How HTTPS works? Comics](https://howhttps.works/)
 
 ## 🧑‍💻 Client-Server Model
 

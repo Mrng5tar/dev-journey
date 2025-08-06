@@ -6,9 +6,11 @@ This section contains notes, links, and examples covering foundational concepts 
 
 ## 📂 Topics Covered
 
-| Topic                            | Description                                                                                                            |
-| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| [Markdown](./markdown/README.md) | Markdown (.md) files are the backbone of documentation, notes, blogs (like on Dev.to or Hashnode), and GitHub READMEs. |
+| Topic                                            | Description                                                                                                            |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| [Markdown](./markdown/README.md)                 | Markdown (.md) files are the backbone of documentation, notes, blogs (like on Dev.to or Hashnode), and GitHub READMEs. |
+| [Web and Internet](./web-and-internet/README.md) | Information about the internet and web. Know about how the web works                                                   |
+| [Web Protocols](./web-protocols/README.md)       | The foundation of how clients communicate with servers.                                                                |
 
 ---
 
@@ -18,9 +20,9 @@ Here are some curated resources relevant to web essentials:
 
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [Web.dev by Google](https://web.dev/)
-- [a11y Project](https://www.a11yproject.com/)
-- [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
-- [Can I use](https://caniuse.com/)
+- [a11y Project](https://www.a11yproject.com/) (Accessibility)
+- [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) (Performance)
+- [Can I use](https://caniuse.com/) (Support check in browsers)
 
 ---
 
